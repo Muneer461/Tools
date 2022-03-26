@@ -109,8 +109,10 @@ pkg install unstable-repo
 pkg x11-repo
 pkg aircrack-ng
 pkg install while
+termux-setup-storage
 pkg install ruby clang
 pip install mechanize requests bs4
+chmod +x *
 exit 
 
 read ch
@@ -127,6 +129,7 @@ apt-get upgrade -y
 apt-get install git
 apt install proot
 apt install nano
+termux-setup-storage
 apt install apache2
 apt install bash
 apt install python
@@ -160,6 +163,8 @@ apt install while
 apt install beef-Xss
 apt install ruby clang
 pip install mechanize requests bs4
+chmod +x *
+
 exit 
 exit
 clear
@@ -202,6 +207,8 @@ git clone https://github.com/Hax4us/haxRat
 git clone https://github.com/king-hacking/SPY-KING
 git clone https://github.com/htr-tech/zphisher
 wget -O install-nethunter-termux https://offs.ec/2MceZWk
+termux-setup-storage
+chmod +x *
 clear
 echo -e
 exit
@@ -211,8 +218,9 @@ elif [ $ch -eq 4 ];then
 clear
 echo "Please wait...."
 echo -e
+cd
+termux-setup-storage
 git clone https://github.com/MUNEER461/MR.MN461
-cd MR.MN461
 chmod +x *
 
 exit
