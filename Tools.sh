@@ -193,7 +193,6 @@ git clone https://github.com/Gameye98/santet-online
 git clone https://github.com/noob-hackers/p-gen
 git clone https://github.com/kuburan/txtool
 git clone https://github.com/ArnabXD/GmailBomber
-git clone https://github.com/vaimpierritik/Hack-Tools
 git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/OnlineHacKing/GINF.git
 git clone https://github.com/Hax4us/Apkmod
