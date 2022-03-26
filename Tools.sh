@@ -24,8 +24,7 @@ echo -e
 echo -e
 
 
-echo -e "🙏 Dont try to edit my script if you edit means you cannot become programer Thankyou 🙏"
-
+echo -e 
 echo -e
 
 echo -e
@@ -212,9 +211,7 @@ read ch
 elif [ $ch -eq 4 ];then
 clear
 echo "Please wait...."
-pkg update -y
-apt update -y
-pkg install git
+echo -e
 git clone https://github.com/MUNEER461/MR.MN461
 cd MR.MN461
 chmod +x *
