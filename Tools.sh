@@ -202,8 +202,7 @@ git clone https://github.com/xHak9x/fbi
 git clone https://github.com/VaimpierOfficial/Vaim-sms-gui
 git clone https://github.com/Hax4us/haxRat
 git clone https://github.com/king-hacking/SPY-KING
-
-got clone https://github.com/htr-tech/zphisher
+git clone https://github.com/htr-tech/zphisher
 wget -O install-nethunter-termux https://offs.ec/2MceZWk
 clear
 echo -e
