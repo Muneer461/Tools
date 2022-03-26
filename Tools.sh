@@ -175,6 +175,7 @@ echo -e
 echo -e " it will take some time"
 echo -e
 echo -e 
+cd
 git clone  https://github.com/noob-hackers/tunnel
 git clone https://github.com/Hax4us/TermuxBlack
 git clone https://github.com/MUNEER461/MR.MN461
