@@ -188,6 +188,7 @@ git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/thewhiteh4t/seeker
 git clone https://github.com/Rajkumrdusad/Tool-X.git
 curl -LO https://raw.githubusercontent.com/Hax4us/setoolkit/master/setoolkit.sh
+git clone https://github.com/aniketstark/STARK2.0
 git clone https://github.com/Ha3MrX/DDos-Attack
 git clone https://github.com/Ha3MrX/InstaBrute
 git clone https://github.com/Ha3MrX/facebook-cracker
