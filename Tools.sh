@@ -43,7 +43,7 @@ echo -e " ➜ press 1 : To install all packages  for Termux ❨ 0.9 GB to Downlo
 #echo -e
 echo -e " ➜ press 2 : To install all packages  for Linux ❨ 0.9 GB to Download  ❩"
 #echo -e
-echo -e " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download "
+echo -e " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download  )"
 #echo -e
 echo -e " ➜ Press 4 : To install Black Termux & Lemon Tool (only for termux users) (600mb to Download )"
 #echo -e
