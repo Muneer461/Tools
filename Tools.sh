@@ -4,7 +4,25 @@
 echo -e
 clear
 echo -e "                          THANK YOU FOR USING TOOL                   "
-echo -e
+
+echo 
+echo -e  "
+                    ────╪███████╪────╪███████
+                  ──╪███████████╪╪███████████
+                  ──██████████████████████████
+                  ─████████████████████████████
+                  ─████████████████████████████
+                  ─████████████████████████████
+                  ─████████████████████████████
+                  ─██████████████████████████
+                  ──╪████████████████████████
+                  ───╪██████████████████████
+                  ─────████████████████████
+                  ──────╪████████████████
+                   ────────╪████████████
+                   ──────────╪████████
+                   ─────────────╪██"
+echo 
 echo -e "
                   ___   _     _____     _______  __   _____  _   _
                  |_ _| | |   / _ \ \   / / ____| \ \ / / _ \| | | |
@@ -43,7 +61,7 @@ echo -e " ➜ press 1 : To install all packages  for Termux ❨ 0.9 GB to Downlo
 #echo -e
 echo -e " ➜ press 2 : To install all packages  for Linux ❨ 0.9 GB to Download  ❩"
 #echo -e
-echo -e " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download  )"
+echo -e " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download "
 #echo -e
 echo -e " ➜ Press 4 : To install Black Termux & Lemon Tool (only for termux users) (600mb to Download )"
 #echo -e
@@ -111,7 +129,7 @@ clear
 echo -e "➣ use speed internet connection other wise  it will Download very slow "
 echo -e
 echo -e
-echo -e "➣ This installation process  It will up 1 Hour depend on your internet connection speed "
+echo -e "➣ This installation process  It will up 1 Hour depend on your internet connection speed"
 echo -e
 echo -e
 apt-get update -y
@@ -187,7 +205,9 @@ git clone https://github.com/d093w1z/sayhello
 git clone https://github.com/sherlock-project/sherlock
 git clone https://github.com/htr-tech/track-ip
 git clone https://github.com/KasRoudra/autoreport
+
 git clone https://github.com/ArnabXD/GmailBomber
+git clone https://github.com/vaimpierritik/Hack-Tools
 git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/OnlineHacKing/GINF.git
 git clone https://github.com/Hax4us/Apkmod
