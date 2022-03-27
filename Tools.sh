@@ -187,9 +187,7 @@ git clone https://github.com/d093w1z/sayhello
 git clone https://github.com/sherlock-project/sherlock
 git clone https://github.com/htr-tech/track-ip
 git clone https://github.com/KasRoudra/autoreport
-
 git clone https://github.com/ArnabXD/GmailBomber
-git clone https://github.com/vaimpierritik/Hack-Tools
 git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/OnlineHacKing/GINF.git
 git clone https://github.com/Hax4us/Apkmod
