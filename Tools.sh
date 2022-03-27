@@ -108,10 +108,10 @@ exit
 read ch
 elif [ $ch -eq 2 ];then
 clear
-echo -e "➣ use speed internet connection other wise  it will Download very slow 
+echo -e "➣ use speed internet connection other wise  it will Download very slow "
 echo -e
 echo -e
-echo -e "➣ This installation process  It will up 1 Hour depend on your internet connection speed
+echo -e "➣ This installation process  It will up 1 Hour depend on your internet connection speed "
 echo -e
 echo -e
 apt-get update -y
@@ -203,6 +203,7 @@ echo -e
 exit
 read ch
 elif [ $ch -eq 4 ];then
+clear
 echo -e 
 echo -e " ➣ please wait...."
 echo -e
