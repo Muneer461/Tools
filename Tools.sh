@@ -207,6 +207,7 @@ git clone https://github.com/VaimpierOfficial/Vaim-sms-gui
 git clone https://github.com/Hax4us/haxRat
 git clone https://github.com/king-hacking/SPY-KING
 git clone https://github.com/htr-tech/zphisher
+wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
 wget -O install-nethunter-termux https://offs.ec/2MceZWk
 termux-setup-storage
 chmod +x *
