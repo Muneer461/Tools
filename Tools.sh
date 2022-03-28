@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script developed by Mun_eer461
 #echo "What is your name :"
 #read name
 echo -e
@@ -7,22 +8,21 @@ echo -e "                          THANK YOU FOR USING TOOL                   "
 
 echo 
 echo -e  "
-                    ────╪███████╪────╪███████
-                  ──╪███████████╪╪███████████
-                  ──██████████████████████████
-                  ─████████████████████████████
-                  ─████████████████████████████
-                  ─████████████████████████████
-                  ─████████████████████████████
-                  ─██████████████████████████
-                  ──╪████████████████████████
-                  ───╪██████████████████████
-                  ─────████████████████████
-                  ──────╪████████████████
-                   ────────╪████████████
-                   ──────────╪████████
-                   ─────────────╪██"
-echo 
+────╪███████╪────╪███████
+──╪███████████╪╪███████████
+──██████████████████████████
+─████████████████████████████
+─████████████████████████████
+─████████████████████████████
+─████████████████████████████
+──██████████████████████████
+──╪████████████████████████
+───╪██████████████████████
+─────████████████████████
+──────╪████████████████
+────────╪████████████
+──────────╪████████
+─────────────╪██"
 echo -e "
                   ___   _     _____     _______  __   _____  _   _
                  |_ _| | |   / _ \ \   / / ____| \ \ / / _ \| | | |
@@ -65,12 +65,13 @@ echo -e " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download "
 #echo -e
 echo -e " ➜ Press 4 : To install Black Termux & Lemon Tool (only for termux users) (600mb to Download )"
 #echo -e
-echo -e  " ➜ Press 5 : To install Metasploit for  Linux ( 800mb to Download )" 
+echo -e  " ➜ Press 5 : To install Metasploit for  Linux ( 800mb to Download )"
+echo -e  " ➜ Prees 6 : To install Metasploit for  Termux ( 800mb to Download )"
 #echo -e
 
-echo -e " ➜ Press 6 : To update Script"
+echo -e " ➜ Press 7 : To update Script"
 
-echo -e " ➜ Press 7 : To Exit "
+echo -e " ➜ Press 8 : To Exit "
 echo -e
 echo -e
 
@@ -205,7 +206,6 @@ git clone https://github.com/d093w1z/sayhello
 git clone https://github.com/sherlock-project/sherlock
 git clone https://github.com/htr-tech/track-ip
 git clone https://github.com/KasRoudra/autoreport
-
 git clone https://github.com/ArnabXD/GmailBomber
 git clone https://github.com/vaimpierritik/Hack-Tools
 git clone https://github.com/vanhauser-thc/thc-hydra
@@ -255,6 +255,25 @@ clear
 exit
 
 elif [ $ch -eq 6 ];then
+echo 
+clear
+cd 
+pkg install git
+pkg install bash
+pkg install wget 
+
+clear
+echo 
+echo -e " ➣ Please wait...."
+echo 
+wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+chmod +x metasploit
+bash metasploit.sh
+echo 
+clear
+
+
+elif [ $ch -eq 7 ];then
 echo -e
 clear
 echo -e
@@ -269,7 +288,7 @@ clear
 exit
 
 read ch 
-elif [ $ch -eq 7 ];then
+elif [ $ch -eq 8 ];then
 clear
 exit
 fi
