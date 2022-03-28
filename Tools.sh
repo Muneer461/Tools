@@ -84,7 +84,8 @@ clear
 echo " ➣It will take some Time "
 echo -e
 echo " ➢Lets start"
-
+echo -e
+echo -e
 apt-get update -y
 apt-get upgrade -y
 apt-get install git
