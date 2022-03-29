@@ -2,90 +2,90 @@
 #Script developed by Mun_eer461
 #echo "What is your name :"
 #read name
-echo -e
+echo 
 clear
-echo -e "                          THANK YOU FOR USING TOOL                   "
+echo  "                          THANK YOU FOR USING TOOL                   "
 
 echo 
-echo -e  "
-────╪███████╪────╪███████
-──╪███████████╪╪███████████
-──██████████████████████████
-─████████████████████████████
-─████████████████████████████
-─████████████████████████████
-─████████████████████████████
-──██████████████████████████
-──╪████████████████████████
-───╪██████████████████████
-─────████████████████████
-──────╪████████████████
-────────╪████████████
-──────────╪████████
-─────────────╪██"
-echo -e "
+echo  "
+                         ────╪███████╪────╪███████
+                         ──╪███████████╪╪███████████
+                         ──██████████████████████████
+                         ─████████████████████████████
+                         ─████████████████████████████
+                         ─████████████████████████████
+                         ─████████████████████████████
+                         ──██████████████████████████
+                         ──╪████████████████████████
+                         ───╪██████████████████████
+                         ─────████████████████████
+                          ──────╪████████████████
+                           ────────╪████████████
+                           ──────────╪████████
+                           ─────────────╪██"
+echo  "
                   ___   _     _____     _______  __   _____  _   _
                  |_ _| | |   / _ \ \   / / ____| \ \ / / _ \| | | |
                   | |  | |  | | | \ \ / /|  _|    \ V / | | | | | |
                   | |  | |__| |_| |\ V / | |___    | || |_| | |_| |
                  |___| |_____\___/  \_/  |_____|   |_| \___/ \___/ "
 
-echo -e
-echo -e
+echo 
+echo 
 
-echo -e "==========={👇 ♕ If you want follow means click Link bleow ♕👇}==========="
+echo  "==========={👇 ♕ If you want follow means click Link bleow ♕👇}==========="
 
-echo -e 
-
-
-echo -e " ➜  Facebook  : https://www.facebook.com/muneer.uddin.104"
+echo  
 
 
-echo -e " ➜  Instagram : https://www.instagram.com/mun_eer461/"
+echo  " ➜  Facebook  : https://www.facebook.com/muneer.uddin.104"
 
 
-echo -e  " ➜  Youtube   : https://www.youtube.com/channel/UC_CkXiuB3XA-az09Mmi8Wsg"
+echo  " ➜  Instagram : https://www.instagram.com/mun_eer461/"
 
 
-echo -e   " ➜  Github    : https://github.com/MUNEER461/"
-echo -e
+echo  " ➜  Youtube   : https://www.youtube.com/channel/UC_CkXiuB3XA-az09Mmi8Wsg"
 
-echo -e " =================={🙏Thank you for using our script 🙏}==================="
-echo -e
-echo -e
+
+ech   " ➜  Github    : https://github.com/MUNEER461/"
+echo 
+
+echo   " =================={🙏Thank you for using our script 🙏}==================="
+echo 
+echo 
 echo "  ↣ 😁It  For Termux  & Linux Useres😁 "
 
-echo -e
-echo -e
-echo -e " ➜ press 1 : To install all packages  for Termux ❨ 0.9 GB to Download ❩"
+echo 
+echo 
+echo   " ➜ press 1 : To install all packages  for Termux ❨ 0.9 GB to Download ❩"
+#echo 
+echo   " ➜ press 2 : To install all packages  for Linux ❨ 0.9 GB to Download  ❩"
+
+echo   " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download "
 #echo -e
-echo -e " ➜ press 2 : To install all packages  for Linux ❨ 0.9 GB to Download  ❩"
+echo   " ➜ Press 4 : To install Black Termux & Lemon Tool (For Termux users) (600mb Download )"
 #echo -e
-echo -e " ➜ press 3 : To install tools for Termux & Linux (25 mb to Download "
-#echo -e
-echo -e " ➜ Press 4 : To install Black Termux & Lemon Tool (only for termux users) (600mb to Download )"
-#echo -e
-echo -e  " ➜ Press 5 : To install Metasploit for  Linux ( 800mb to Download )"
-echo -e  " ➜ Prees 6 : To install Metasploit for  Termux ( 800mb to Download )"
+echo   " ➜ Press 5 : To install Metasploit for  Linux ( 800mb to Download )"
+echo   " ➜ Prees 6 : To install Metasploit for  Termux ( 800mb to Download )"
 #echo -e
 
-echo -e " ➜ Press 7 : To update Script"
+echo   " ➜ Press 7 : To update Script"
 
-echo -e " ➜ Press 8 : To Exit "
-echo -e
-echo -e
+echo   " ➜ Press 8 : To Exit "
+echo 
+echo 
 
-echo -e " Enter Your options : "
-echo -e
+echo  " Enter Your options : "
+echo 
 
 read ch
 if [ $ch -eq 1 ];then
 clear
 echo " ➣It will take some Time "
-echo -e
+echo 
 echo " ➢Lets start"
-echo -e
-echo -e
+echo 
+echo 
 apt-get update -y
 apt-get upgrade -y
 apt-get install git
@@ -128,12 +128,12 @@ exit
 read ch
 elif [ $ch -eq 2 ];then
 clear
-echo -e "➣ use speed internet connection other wise  it will Download very slow "
-echo -e
-echo -e
-echo -e "➣ This installation process  It will up 1 Hour depend on your internet connection speed"
-echo -e
-echo -e
+echo    "➣ use speed internet connection other wise  it will Download very slow "
+echo 
+echo 
+echo    "➣ This installation process  It will up 1 Hour depend on your internet connection speed"
+echo 
+echo 
 apt-get update -y
 apt-get upgrade -y
 apt-get install git
@@ -178,12 +178,12 @@ clear
 read ch
 elif [ $ch -eq 3 ];then 
 clear
-echo -e " ➣ please wait tools installing......."
-echo -e
-echo -e
-echo -e " ➣ it will take some time.........."
-echo -e
-echo -e 
+echo   " ➣ please wait tools installing......."
+echo 
+echo 
+echo    " ➣ it will take some time.........."
+echo 
+echo    
 cd
 git clone  https://github.com/noob-hackers/tunnel
 git clone https://github.com/Hax4us/TermuxBlack
@@ -218,15 +218,15 @@ git clone https://github.com/Hax4us/haxRat
 git clone https://github.com/htr-tech/zphisher
 wget -O install-nethunter-termux https://offs.ec/2MceZWk
 clear
-echo -e
+echo 
 exit
 read ch
 elif [ $ch -eq 4 ];then
 clear
-echo -e 
-echo -e " ➣ please wait...."
-echo -e
-echo -e
+echo  
+echo    " ➣ please wait...."
+echo      
+echo 
 cd
 apt update
 pkg update 
@@ -236,11 +236,11 @@ wget https://github.com/Hax4us/TermuxBlack/raw/master/install.sh
 chmod +x *
 bash install.sh -i
 clear
-echo -e
-echo -e
-echo -e " ➣ Please wait ........it will take  20mins"
-echo -e
-echo -e
+echo 
+echo 
+echo    " ➣ Please wait ........it will take  20mins"
+echo             
+echo 
 apt install lemon
 clear
 exit 
@@ -248,9 +248,9 @@ exit
 read ch 
 elif [ $ch -eq 5 ];then
 clear
-echo -e " ➣ Please wait...."
-echo -e " ➣  It will 50 mins......"
-echo -e
+echo    " ➣ Please wait...."
+echo    " ➣  It will 50 mins......"
+echo 
 apt install metasploit 
 clear
 exit
@@ -265,7 +265,7 @@ pkg install wget
 
 clear
 echo 
-echo -e " ➣ Please wait...."
+echo    " ➣ Please wait...."
 echo 
 wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
 chmod +x metasploit
@@ -275,10 +275,10 @@ clear
 
 
 elif [ $ch -eq 7 ];then
-echo -e
+echo 
 clear
-echo -e
-echo -e
+echo 
+echo 
 echo " ➣ Please wait...."
 cd
 pkg update -y
@@ -294,3 +294,4 @@ clear
 exit
 fi
 Done 
+ 
