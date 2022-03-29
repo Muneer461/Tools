@@ -47,7 +47,9 @@ echo  " ➜  Instagram : https://www.instagram.com/mun_eer461/"
 echo  " ➜  Youtube   : https://www.youtube.com/channel/UC_CkXiuB3XA-az09Mmi8Wsg"
 
 
-ech   " ➜  Github    : https://github.com/MUNEER461/"
+echo  " ➜  Github    : https://github.com/MUNEER461/"
+echo  " ➜  twitter   : https://twitter.com/Muneer461/"
+echo 
 echo 
 
 echo   " =================={🙏Thank you for using our script 🙏}==================="
