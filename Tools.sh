@@ -125,6 +125,7 @@ pkg aircrack-ng
 pkg install while
 pkg install ruby clang
 pip install mechanize requests bs4
+clear
 exit 
 
 read ch
@@ -262,7 +263,6 @@ git clone https://github.com/sherlock-project/sherlock
 git clone https://github.com/htr-tech/track-ip
 git clone https://github.com/kasroudra/autoreport
 git clone https://github.com/arnabxd/gmailbomber
-git clone https://github.com/vaimpierritik/hack-tools
 git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/onlinehacking/ginf.git
 git clone https://github.com/hax4us/apkmod
