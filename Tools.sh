@@ -230,7 +230,7 @@ exit
 
 read ch
 
-elif [ $ch -eq 4];then 
+elif [ $ch -eq 4 ];then 
 clear
 echo   " ➣ please wait tools installing......."
 echo 
