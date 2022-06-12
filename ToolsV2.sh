@@ -393,9 +393,9 @@ apt update -y
 pkg install git
 rm -fr Tools
 git clone https://github.com/muneer461/Tools
-cd tools
+cd Tools
 chmod +x *
-bash Tools.sh
+bash ToolsV2.sh
 clear
 exit
 
