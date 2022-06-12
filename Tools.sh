@@ -69,8 +69,7 @@ echo   " ➜ press 5 : to install black termux & lemon tool (for termux users) (
 #echo -e
 echo   " ➜ press 6 : to install metasploit for  linux ( 800mb to download )"
 echo   " ➜ prees 7 : to install metasploit for  termux ( 800mb to download )"
-#echo -e
-
+echo 
 echo   " ➜ press 8 : to update script"
 
 echo   " ➜ press 9 : to exit "
@@ -267,13 +266,63 @@ git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/onlinehacking/ginf.git
 git clone https://github.com/hax4us/apkmod
 git clone https://github.com/xhak9x/fbi
+git clone https://github.com/VaimpierOfficial/Vaim-Samay
 git clone https://github.com/vaimpierofficial/vaim-sms-gui
 git clone https://github.com/hax4us/haxrat
+git clone https://github.com/VaimpierOfficial/Vaim-RamSom
+git clone https://github.com/hangetzzu/saycheese
 git clone https://github.com/htr-tech/zphisher
+git clone https://github.com/samay825/Sms-Bomb
+git clone https://github.com/d093w1z/sayhello
+git clone https://github.com/Elliot290/BaapGAttack
+git clone https://github.com/trustedsec/social-engineer-toolkit
+git clone https://github.com/samay825/Email-Thread
+git clone https://github.com/Ign0r3dH4x0r/Xweapon
 wget -o install-nethunter-termux https://offs.ec/2mcezwk
 clear
 echo 
 exit
+read ch
+elif [ $ch  -eq 5 ];then
+cd
+git clone  https://github.com/noob-hackers/tunnel
+git clone https://github.com/hax4us/termuxblack
+git clone https://github.com/muneer461/mr.mn461
+git clone https://github.com/hangetzzu/saycheese
+git clone https://github.com/Elliot290/BaapGAttack
+git clone https://github.com/muneer461/sms
+git clone https://github.com/d093w1z/sayhello
+git clone https://github.com/Ign0r3dH4x0r/Xweapon
+git clone https://github.com/ignitetch/advphishing
+git clone https://github.com/thewhiteh4t/seeker
+git clone https://github.com/VaimpierOfficial/Vaim-Samay
+git clone https://github.com/VaimpierOfficial/Vaim-RamSom
+git clone https://github.com/rajkumrdusad/tool-x.git
+curl -lo https://raw.githubusercontent.com/hax4us/setoolkit/master/setoolkit.sh
+git clone https://github.com/ha3mrx/ddos-attack
+git clone https://github.com/ha3mrx/instabrute
+git clone https://github.com/ha3mrx/facebook-cracker
+git clone https://github.com/hangetzzu/saycheese
+git clone https://github.com/noob-hackers/hacklock
+git clone https://github.com/ranginang67/darkfly-tool
+git clone https://github.com/gameye98/santet-online
+git clone https://github.com/noob-hackers/p-gen
+git clone https://github.com/samay825/Email-Thread
+git clone https://github.com/kuburan/txtool
+git clone https://github.com/hangetzzu/saycheese
+git clone https://github.com/d093w1z/sayhello
+git clone https://github.com/sherlock-project/sherlock
+git clone https://github.com/htr-tech/track-ip
+git clone https://github.com/kasroudra/autoreport
+git clone https://github.com/arnabxd/gmailbomber
+git clone https://github.com/vanhauser-thc/thc-hydra
+git clone https://github.com/onlinehacking/ginf.git
+git clone https://github.com/hax4us/apkmod
+git clone https://github.com/xhak9x/fbi
+git clone https://github.com/vaimpierofficial/vaim-sms-gui
+git clone https://github.com/hax4us/haxrat
+git clone https://github.com/htr-tech/zphisher
+git clone https://github.com/samay825/Sms-Bomb
 read ch
 elif [ $ch -eq 5 ];then
 clear
@@ -305,6 +354,7 @@ clear
 echo    " ➣ please wait...."
 echo    " ➣  it will 50 mins......"
 echo 
+cd 
 apt install metasploit 
 clear
 exit
@@ -338,7 +388,11 @@ cd
 pkg update -y
 apt update -y
 pkg install git
+rm -fr Tools
 git clone https://github.com/muneer461/alltools
+cd tools
+chmod +x *
+bash Tools.sh
 clear
 exit
 
