@@ -392,7 +392,7 @@ pkg update -y
 apt update -y
 pkg install git
 rm -fr Tools
-git clone https://github.com/muneer461/alltools
+git clone https://github.com/muneer461/Tools
 cd tools
 chmod +x *
 bash Tools.sh
