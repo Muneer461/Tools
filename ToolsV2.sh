@@ -319,6 +319,15 @@ git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/onlinehacking/ginf.git
 git clone https://github.com/hax4us/apkmod
 git clone https://github.com/xhak9x/fbi
+git clone https://github.com/topics/linux-tools
+git clone https://github.com/palahsu/DDoS-Ripper
+git clone https://github.com/vaimpierritik/Vaim-Malware-Hider
+git clone https://github.com/vaimpierritik/Vaim-Malware-Hider
+git clone https://github.com/vaimpierritik/Sms-Bomb 
+git clone https://github.com/openwall/john
+git clone https://github.com/sherlock-project/sherlock
+git clone https://github.com/qeeqbox/social-analyzer
+git clone https://github.com/LandGrey/pydictor
 git clone https://github.com/vaimpierofficial/vaim-sms-gui
 git clone https://github.com/hax4us/haxrat
 git clone https://github.com/htr-tech/zphisher
