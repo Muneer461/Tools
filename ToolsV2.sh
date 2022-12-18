@@ -241,6 +241,16 @@ echo
 echo    
 cd
 git clone  https://github.com/noob-hackers/tunnel
+git clone https://github.com/topics/linux-tools
+git clone https://github.com/palahsu/DDoS-Ripper
+git clone https://github.com/vaimpierritik/Vaim-Malware-Hider
+git clone https://github.com/vaimpierritik/Vaim-Malware-Hider
+git clone https://github.com/vaimpierritik/Sms-Bomb 
+git clone https://github.com/openwall/john
+git clone https://github.com/sherlock-project/sherlock
+git clone https://github.com/qeeqbox/social-analyzer
+git clone https://github.com/LandGrey/pydictor
+
 git clone https://github.com/hax4us/termuxblack
 git clone https://github.com/muneer461/mr.mn461
 git clone https://github.com/muneer461/sms
