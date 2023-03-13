@@ -280,6 +280,11 @@ git clone https://github.com/Elliot290/BaapGAttack
 git clone https://github.com/trustedsec/social-engineer-toolkit
 git clone https://github.com/samay825/Email-Thread
 git clone https://github.com/Ign0r3dH4x0r/Xweapon
+git clone https://github.com/jofpin/trape
+git clone https://github.com/aboul3la/Sublist3r
+git clone https://github.com/Greyjedix/Profil3r
+git clone https://github.com/issamelferkh/userrecon
+git clone https://github.com/p1ngul1n0/blackbird
 wget -o install-nethunter-termux https://offs.ec/2mcezwk
 clear
 echo 
@@ -319,6 +324,10 @@ git clone https://github.com/arnabxd/gmailbomber
 git clone https://github.com/vanhauser-thc/thc-hydra
 git clone https://github.com/onlinehacking/ginf.git
 git clone https://github.com/hax4us/apkmod
+git clone https://github.com/aboul3la/Sublist3r
+git clone https://github.com/Greyjedix/Profil3r
+git clone https://github.com/issamelferkh/userrecon
+git clone https://github.com/p1ngul1n0/blackbird
 git clone https://github.com/xhak9x/fbi
 git clone https://github.com/vaimpierofficial/vaim-sms-gui
 git clone https://github.com/topics/linux-tools
